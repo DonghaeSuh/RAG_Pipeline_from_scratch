@@ -1,0 +1,2 @@
+filename,module_name,module_params,execution_time
+0.parquet,langchain_chunk,"{'chunk_method': 'konlpy', 'chunk_size': 512, 'chunk_overlap': 128, 'add_file_name': 'ko'}",0.10301672870462592
