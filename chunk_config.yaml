@@ -1,0 +1,6 @@
+modules:
+  - module_type: langchain_chunk
+    chunk_method: konlpy
+    chunk_size: 512
+    chunk_overlap: 128
+    add_file_name: ko
